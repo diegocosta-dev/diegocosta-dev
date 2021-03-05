@@ -11,5 +11,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/diegocosta-dev/">
-    <img src="https://raw.githubusercontent.com/diegocosta-dev/diegocosta-dev/Resources/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/diegocosta-dev/diegocosta-dev/dead693ca37ffb9ddefd7ed7d11577205ef301ad/Resources/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
+</p>
