@@ -14,3 +14,9 @@
     <img src="https://raw.githubusercontent.com/diegocosta-dev/diegocosta-dev/dead693ca37ffb9ddefd7ed7d11577205ef301ad/Resources/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
 </p>
+
+<p>
+  <a href="https://api.whatsapp.com/send?phone=5584988808712">
+    <img src="https://raw.githubusercontent.com/diegocosta-dev/diegocosta-dev/dead693ca37ffb9ddefd7ed7d11577205ef301ad/Resources/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px">
+  </a>
+</p>
