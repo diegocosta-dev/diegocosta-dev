@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Diego Costa!
 
-- 🌱 I’m currently learning Reactjs and GraphQL
-- 👯 I’m looking to collaborate on Reactjs and Nodejs
-
+- 🌱 I’m currently learning CraftCMS and ReactJS
 ---
 
 ### 📢 Find me
