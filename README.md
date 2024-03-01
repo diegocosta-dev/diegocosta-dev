@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Diego Costa!
 
-- 🌱 I’m currently learning CraftCMS and ReactJS
+- 🌱 I’m a Craft CMS developer, I work at [Dative](https://www.linkedin.com/company/dative/people/)
 ---
 
 ### 📢 Find me
